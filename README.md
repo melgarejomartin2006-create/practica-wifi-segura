@@ -44,3 +44,6 @@ Ocultamiento de IP y Ubicación:La dirección IP real del usuario queda oculta y
 
 A continuación adjunto toda la evidencia observada.
 <img width="698" height="645" alt="image" src="https://github.com/user-attachments/assets/8523473b-1cf2-4a5a-8755-7d011a93f8a9" />
+<img width="697" height="707" alt="image" src="https://github.com/user-attachments/assets/f8686526-0667-452a-ad90-ebd23f1a77b7" />
+<img width="509" height="522" alt="image" src="https://github.com/user-attachments/assets/5d1aee6a-cae2-41e0-87bd-7353c73dae4f" />
+
