@@ -41,3 +41,6 @@ Ocultamiento de IP y Ubicación:La dirección IP real del usuario queda oculta y
 2.Exige el candado HTTPS:Verifica que la URL comience siempre con https:// y evita ingresar credenciales o datos bancarios en sitios que usen HTTP no cifrado [15, 16]. 
 
 3.Desactiva la conexión automática a redes Wi-Fi:Configura tu dispositivo para que no se conecte automáticamente a redes abiertas no guardadas y evita realizar transacciones sensibles sin usar tus datos móviles 
+
+A continuación adjunto toda la evidencia observada.
+<img width="698" height="645" alt="image" src="https://github.com/user-attachments/assets/8523473b-1cf2-4a5a-8755-7d011a93f8a9" />
