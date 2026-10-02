@@ -7,4 +7,4 @@ Puerto utilizado: Puerto 80
 Estado de Cifrado:Inseguro / Texto Plano (Plaintext) 
 El sitio \`neverssl.com\` es un servicio diseñado intencionalmente para no implementar TLS/SSL, manteniendo la comunicación en texto abierto.
 Evidencia Observada (Análisis de Solicitud) Al inspeccionar la pestaña Network(Red) en las Herramientas de Desarrollador (F12) tras recargar la página, se identificaron los siguientes elementos visibles en la solicitud raíz.
-![Uploading image.png…]()
+![Uploading image.png…](https://github.com/melgarejomartin2006-create/practica-wifi-segura/blob/d9b10b73a43236d04f2ad31e9f0f20ff05492326/Wifi%20seguro1.jpeg)
