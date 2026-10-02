@@ -28,7 +28,8 @@ Riesgos Encontrados en Redes Wi-Fi Públicas
 15. Redes Gemelas Malignas (Evil Twins): Un atacante puede montar un punto de acceso falso con el mismo nombre de la cafetería o aeropuerto para capturar todo el tráfico no cifrado del usuario.
 
 Simulación de Escenario con una VPN Si el usuario estuviera conectado a una VPN (Red Privada Virtual), el escenario cambiaría de la siguiente manera
-
 Túnel Cifrado:La VPN encapsula todo el tráfico emitido por el dispositivo dentro de un túnel cifrado (ej. algoritmos AES) antes de salir a la red pública.
+
 Invisibilidad Local: Aunque el usuario acceda a una página HTTP, un atacante capturando paquetes en la Wi-Fi pública solo verá bloques de caracteres aleatorios e ininteligibles Application Data dirigiéndose al servidor VPN.
+
 Ocultamiento de IP y Ubicación:La dirección IP real del usuario queda oculta y es reemplazada por la dirección IP del servidor VPN, protegiendo su identidad digital.
