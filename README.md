@@ -19,3 +19,9 @@ Evidencia Observada (Análisis de Solicitud) Al inspeccionar la pestaña Network
 7. User-Agent: Revela el navegador exacto, la versión y el sistema operativo del usuario.
 8. Accept-Language: Expone los idiomas y la localización preferida del usuario.
 9. Host: Confirma el nombre del servidor de destino. Payload / HTML: Las 131 líneas de código fuente HTML y el texto del sitio son totalmente legibles.
+
+10. Riesgos Encontrados en Redes Wi-Fi Públicas
+11. Navegar en un sitio web HTTP desde una red Wi-Fi compartida presenta graves amenazas debido a que los datos viajan "en el aire" sin ninguna protección
+12. Intercepción de Datos (Sniffing / Eavesdropping):Cualquier usuario en la misma red pública puede usar analizadores de paquetes (como Wireshark) para capturar el tráfico y leer credenciales, cookies o formularios en texto plano
+13. Falta de Confidencialidad e Integridad:Los mensajes pueden ser interceptados y modificados en tránsito mediante ataques de Intermediario (Man-in-the-Middle - MitM) o inyección de código malicioso sin que el usuario lo note
+15. Redes Gemelas Malignas (Evil Twins): Un atacante puede montar un punto de acceso falso con el mismo nombre de la cafetería o aeropuerto para capturar todo el tráfico no cifrado del usuario.
