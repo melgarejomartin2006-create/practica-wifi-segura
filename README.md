@@ -22,10 +22,10 @@ Evidencia Observada (Análisis de Solicitud) Al inspeccionar la pestaña Network
 
 Riesgos Encontrados en Redes Wi-Fi Públicas
 
-11. Navegar en un sitio web HTTP desde una red Wi-Fi compartida presenta graves amenazas debido a que los datos viajan "en el aire" sin ninguna protección
-12. Intercepción de Datos (Sniffing / Eavesdropping):Cualquier usuario en la misma red pública puede usar analizadores de paquetes (como Wireshark) para capturar el tráfico y leer credenciales, cookies o formularios en texto plano
-13. Falta de Confidencialidad e Integridad:Los mensajes pueden ser interceptados y modificados en tránsito mediante ataques de Intermediario (Man-in-the-Middle - MitM) o inyección de código malicioso sin que el usuario lo note
-15. Redes Gemelas Malignas (Evil Twins): Un atacante puede montar un punto de acceso falso con el mismo nombre de la cafetería o aeropuerto para capturar todo el tráfico no cifrado del usuario.
+1. Navegar en un sitio web HTTP desde una red Wi-Fi compartida presenta graves amenazas debido a que los datos viajan "en el aire" sin ninguna protección
+2. Intercepción de Datos (Sniffing / Eavesdropping):Cualquier usuario en la misma red pública puede usar analizadores de paquetes (como Wireshark) para capturar el tráfico y leer credenciales, cookies o formularios en texto plano
+3. Falta de Confidencialidad e Integridad:Los mensajes pueden ser interceptados y modificados en tránsito mediante ataques de Intermediario (Man-in-the-Middle - MitM) o inyección de código malicioso sin que el usuario lo note
+4. Redes Gemelas Malignas (Evil Twins): Un atacante puede montar un punto de acceso falso con el mismo nombre de la cafetería o aeropuerto para capturar todo el tráfico no cifrado del usuario.
 
 Simulación de Escenario con una VPN Si el usuario estuviera conectado a una VPN (Red Privada Virtual), el escenario cambiaría de la siguiente manera
 Túnel Cifrado:La VPN encapsula todo el tráfico emitido por el dispositivo dentro de un túnel cifrado (ej. algoritmos AES) antes de salir a la red pública.
